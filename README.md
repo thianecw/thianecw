@@ -1,4 +1,3 @@
-Olá,
 <br>
 ## Prazer, meu nome é <strong>Thiane Wosniak</strong>
 <h4> Adoro tecnologia e sigo me apaixonando cada dia mais pela programação! :computer:</h1>  
