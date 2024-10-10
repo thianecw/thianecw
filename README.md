@@ -5,7 +5,7 @@
 
 • Aluna <a href="https://rodolfomori.com.br/devclub/">DevClub</a> - a melhor plataforma de ensino para desenvolver programadores
 <br>
-• Enfermeira de formação mas migrando para área de programação
+• Enfermeira de formação migrando para área de programação
 <br>
 • Vivendo na Irlanda atualmente
 <br>
