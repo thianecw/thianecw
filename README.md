@@ -7,8 +7,6 @@
 <br>
 • Enfermeira de formação migrando para área de programação
 <br>
-<br>
-<br>
 ## Skills :rocket:
 <p align="left">
   <a href="https://skillicons.dev">
