@@ -7,13 +7,12 @@
 <br>
 • Enfermeira de formação migrando para área de programação
 <br>
-• Vivendo na Irlanda atualmente
 <br>
 <br>
 ## Skills :rocket:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,docker" />
   </a>
 </p>
 
