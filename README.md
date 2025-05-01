@@ -2,7 +2,7 @@
 ## Prazer, meu nome é <strong>Thiane Wosniak</strong>
 <h4> Adoro tecnologia e sigo me apaixonando cada dia mais pela programação! :computer:</h1>  
 
-
+• Cursando Análise e Desenvolvimento de Sistemas
 • Aluna <a href="https://rodolfomori.com.br/devclub/">DevClub</a> - a melhor plataforma de ensino para desenvolver programadores
 <br>
 • Enfermeira de formação migrando para área de programação
